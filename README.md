@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer and student eager to build modern, interactive web applications and software solutions. I enjoy exploring new technologies, crafting clean user interfaces, and designing efficient backend systems. Outside of programming, I love learning new tools, collaborating with fellow developers, and solving challenging problems. Open to collaboration, freelance projects, and contributing to open source!
+I'm a passionate developer and student eager to build modern, interactive web applications and software solutions. I enjoy exploring new technologies, crafting clean user interfaces. Outside of programming, I'm Interested in new tech products, I love learning new tools, collaborating with fellow developers, and solving challenging problems. Open to collaboration, freelance projects, and contributing to open source!
 
 ## 🚀 Languages and Tools
 
@@ -59,7 +59,7 @@ I'm a passionate developer and student eager to build modern, interactive web ap
 - 👯 Looking to collaborate with other developers
 - 🤝 Open to projects and opportunities
 - 🥅 2026 Goals: Build impactful projects & contribute to open source
-- ⚡ Fun fact: Passionate about tech, coding, and problem solving
+- ⚡ Fun fact: Passionate about tech, coding, Music instruments and problem solving
 
 <br>
 
